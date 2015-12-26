@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":534,"scrollY":640.5},
-{"id":2,"expanded":false,"name":"始まりの小屋","order":1,"parentId":0,"scrollX":534,"scrollY":303.5}
+{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":451,"scrollY":640.5},
+{"id":2,"expanded":true,"name":"始まりの小屋","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":true,"name":"MAP501","order":4,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":4,"expanded":true,"name":"MAP502","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"MAP503","order":5,"parentId":0,"scrollX":0,"scrollY":0}
 ]
