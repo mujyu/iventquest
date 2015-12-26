@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":534,"scrollY":640.5},
-{"id":2,"expanded":false,"name":"始まりの小屋","order":1,"parentId":0,"scrollX":534,"scrollY":303.5}
+{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":915.4285714285713,"scrollY":640.2857142857142},
+{"id":2,"expanded":true,"name":"始まりの小屋","order":1,"parentId":0,"scrollX":542,"scrollY":347.5},
+{"id":3,"expanded":false,"name":"C区-アシュリー逃走イベント用","order":3,"parentId":0,"scrollX":929.1428571428571,"scrollY":595.7142857142857}
 ]
