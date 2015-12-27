@@ -1,9 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":915.4285714285713,"scrollY":888.8571428571428},
+{"id":1,"expanded":true,"name":"デバッグマップ","order":2,"parentId":0,"scrollX":816,"scrollY":888},
 {"id":2,"expanded":true,"name":"始まりの小屋","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"C区画ー路地裏","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"サブイベントー原子力基地","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
-{"id":5,"expanded":false,"name":"グスタフの基地","order":5,"parentId":0,"scrollX":929.1428571428571,"scrollY":595.7142857142857},
-{"id":6,"expanded":false,"name":"D区画-アシュリー逃走マップ","order":6,"parentId":0,"scrollX":451,"scrollY":640.5}
+{"id":4,"expanded":true,"name":"サブイベントー原子力基地","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"グスタフの基地","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"D区画-アシュリー逃走マップ","order":6,"parentId":0,"scrollX":451,"scrollY":667.5},
+{"id":7,"expanded":false,"name":"過激派拠点１","order":7,"parentId":0,"scrollX":459,"scrollY":312.5}
 ]
